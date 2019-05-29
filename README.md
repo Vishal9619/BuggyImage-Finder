@@ -1,0 +1,2 @@
+# BuggyImage-Finder
+A chrome extension used to serve through url's given via a csv file so that the client can visit each page and manually verify whether the images for a particular medicine is correct or not. Based on his/her observation, he"ll press Correct or Wrong button and then he"ll be redirected to the next url. At last he can also download the updated file with url's along with user inputs via a download button appearing when all url's have been visited.
